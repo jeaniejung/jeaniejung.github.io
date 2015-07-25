@@ -1,0 +1,9 @@
+.html, body {
+  margin: 10;
+}
+
+.collapsed {
+  width: 0;
+  transition: width 1s;
+  //takes 1s to collapse
+}
